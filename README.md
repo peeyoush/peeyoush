@@ -237,4 +237,10 @@ Currently busy debugging life, training models, and pretending sem exams don't e
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<h2 align="center">🧩 LeetCode</h2>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Peeyoush?theme=dark&font=Nunito&ext=heatmap" />
+
 </div>
