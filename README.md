@@ -42,20 +42,19 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
 
-Thrid-year **B.E. CSE** at **Acropolis AITR, Indore**
+Fourth-year **B.Tech CSE Student** at **KIIT ,  Bhubaneshwar**
 
-I build **infrastructure-level security tooling** — middleware, API guards, and risk-scoring pipelines for LLM applications.
+I build **infrastructure-level security tooling** — middleware, API guards , scalable website
 
-🛡️ Creator of **[ADIUVARE](https://github.com/0-Shimanshu/guardlayer)** — *GSSoC 2026*
+🛡️ **Full Stack Developer** 
 <br/>
-🏆 **3× Hackathon Winner**
+🌱 **Preparing for GSoC**
 <br/>
-🥇 **AIR 28** — CodeNinja All-India 2024
+🥇 **📚 Exploring open source contribution** 
 <br/>
-☁️ **Google Cloud Mentor**
+🤖 **Interested in Machine Learning & GNNs**
 <br/>
 🎯 Learning **System Design** & **Async Python**
-
 <br/>
 
 </td>
