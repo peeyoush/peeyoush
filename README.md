@@ -6,4 +6,24 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer;Learning+React+%26+Backend;Preparing+for+GSoC;Interested+in+Machine+Learning+%26+GNNs" />
 
+
+<br/>
+<br/>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourgmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=peeyoush&style=for-the-badge&color=blue"/>
+
+</div>
+
 </div>
