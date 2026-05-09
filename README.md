@@ -91,5 +91,31 @@ I build **infrastructure-level security tooling** — middleware, API guards , s
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,js,fastapi,redis,postgresql&theme=dark&perline=8" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,docker,git,github,vscode,linux&theme=dark&perline=8" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Presidio-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/llm--guard-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/rebuff-FF4B4B?style=flat-square" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 </div>
