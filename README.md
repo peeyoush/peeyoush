@@ -218,4 +218,23 @@ Currently busy debugging life, training models, and pretending sem exams don't e
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════ SNAKE ═══════════════════ -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peeyoush/peeyoush/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peeyoush/peeyoush/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/peeyoush/peeyoush/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
