@@ -123,7 +123,7 @@ I build **infrastructure-level security tooling** — middleware, API guards , s
 
 <td width="50%" valign="top" align="center">
 
-<h3>📚 Library Management System</h3>
+<h3>📚 Library Management API</h3>
 
 <p>
 Spring Boot based REST API for managing library operations with layered architecture, validation, exception handling, and role-based authentication using Spring Security.
@@ -190,5 +190,31 @@ Currently busy debugging life, training models, and pretending sem exams don't e
 </tr>
 
 </table>
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b5b-4bff-95d8-f2b0d3b6d7a8.gif" width="100%">
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=peeyoush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=peeyoush&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeyoush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
 </div>
