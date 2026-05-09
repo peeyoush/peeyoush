@@ -243,4 +243,57 @@ Currently busy debugging life, training models, and pretending sem exams don't e
 
 <img src="https://leetcard.jacoblin.cool/Peeyoush?theme=dark&font=Nunito&ext=heatmap" />
 
+<br/>
+
+<p align="center">
+  <i>
+    Question count small, rank large... for now 😄<br/>
+    Give it a few months and those numbers will switch places.
+  </i>
+</p>
+
+<br/>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<br/>
+
+<div align="center">
+
+💡 Always open to:
+Open Source • Backend Development • ML Projects • GSoC Collaborations
+
+<br/><br/>
+
+📫 If you want to connect, collaborate, or just talk tech — feel free to reach out!
+
+<br/><br/>
+
+<a href="mailto:peeyoush1215@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/peeyoush-shah-621217195/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Peeyoush/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+
 </div>
