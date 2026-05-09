@@ -7,10 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer;Learning+React+%26+Backend;Preparing+for+GSoC;Interested+in+Machine+Learning+%26+GNNs" />
 
 
-<br/>
-<br/>
-
-<a href="https://linkedin.com](https://www.linkedin.com/in/peeyoush-shah-621217195/)\">
+<a href="https://www.linkedin.com/in/peeyoush-shah-621217195/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
@@ -20,7 +17,7 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/Peeyoush/)
+<a href="https://leetcode.com/u/Peeyoush/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;&nbsp;
