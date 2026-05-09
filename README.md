@@ -276,17 +276,20 @@ Open Source • Backend Development • ML Projects • GSoC Collaborations
 <a href="mailto:peeyoush1215@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/peeyoush-shah-621217195/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 &nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Peeyoush/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
