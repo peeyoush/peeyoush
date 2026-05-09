@@ -191,31 +191,21 @@ Currently busy debugging life, training models, and pretending sem exams don't e
 
 </table>
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b5b-4bff-95d8-f2b0d3b6d7a8.gif" width="100%">
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<br/>
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=peeyoush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=peeyoush&theme=tokyonight&hide_border=true&background=0d1117" />
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0-Shimanshu&show_icons=true&theme=react&bg_color=0d1117&border_color=1e293b&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true&ring_color=38bdf8" />
+  &nbsp;
+  <img height="180em" src="https://streak-stats.demolab.com/?user=0-Shimanshu&theme=react&background=0d1117&border=1e293b&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
 </div>
 
 <br/>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeyoush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
 </div>
