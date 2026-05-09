@@ -115,5 +115,84 @@ I build **infrastructure-level security tooling** — middleware, API guards , s
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b5b-4bff-95d8-f2b0d3b6d7a8.gif" width="100%">
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<h3>📚 Library Management System</h3>
+
+<p>
+Spring Boot based REST API for managing library operations with layered architecture, validation, exception handling, and role-based authentication using Spring Security.
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/H2Database-003B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST_API-Backend-blue?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>🤖 FEVER Verdict</h3>
+
+<p>
+AI-powered fact verification system using Hierarchical Cross Attention Pooling (HCAP), BM25 retrieval, FastAPI backend, and Next.js frontend for real-time claim verification.
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/BERT-NLP-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI_+_FullStack-Research_Project-purple?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<br/>
+
+<h3>🚧 More Projects Coming Soon...</h3>
+
+<p>
+Currently busy debugging life, training models, and pretending sem exams don't exist 🙂
+</p>
+
+<img src="https://img.shields.io/badge/Open_Source-Loading...-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Caffeine-Powered-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bugs-100%25_Natural-red?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
