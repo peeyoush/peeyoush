@@ -113,7 +113,6 @@ I build **infrastructure-level security tooling** — middleware, API guards , s
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
-<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b5b-4bff-95d8-f2b0d3b6d7a8.gif" width="100%">
 
