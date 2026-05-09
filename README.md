@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Peeyoush
 
-<!--
-**peeyoush/peeyoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Full Stack Developer
+- Learning React & Backend
+- Preparing for GSoC
+- Interested in ML & GNNs
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Goals
+- Open Source Contributions
+- Full Stack Development
+- Machine Learning
