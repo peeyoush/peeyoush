@@ -197,21 +197,15 @@ Currently busy debugging life, training models, and pretending sem exams don't e
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peeyoush&show_icons=true&theme=react&bg_color=0d1117&border_color=1e293b&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true&ring_color=38bdf8" />
-
-  &nbsp;
-
-  <img height="180em" src="https://streak-stats.demolab.com/?user=peeyoush&theme=react&background=0d1117&border=1e293b&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
-
-</div>
-
 <br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peeyoush&layout=compact&theme=react&bg_color=0d1117&border_color=1e293b&title_color=38bdf8&text_color=94a3b8" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peeyoush&show_icons=true&theme=react&bg_color=0d1117&border_color=1e293b&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true&ring_color=38bdf8" />
+
+&nbsp;&nbsp;&nbsp;
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=peeyoush&theme=react&background=0d1117&border=1e293b&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
 
 </div>
 
