@@ -103,9 +103,7 @@ I build **infrastructure-level security tooling** — middleware, API guards , s
 
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Presidio-0078D4?style=flat-square" />
 <img src="https://img.shields.io/badge/llm--guard-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/rebuff-FF4B4B?style=flat-square" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
