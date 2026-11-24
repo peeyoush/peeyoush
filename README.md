@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer;Learning+React+%26+Backend;Preparing+for+GSoC;Interested+in+Machine+Learning+%26+GNNs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer;Learning+React+%26+Backend;Interested+in+Machine+Learning+%26+GNNs" />
 
 <br/>
 <br/>
